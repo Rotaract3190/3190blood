@@ -1,0 +1,41 @@
+<div class="fresh-table full-color-blue">
+  <!--
+      Available colors for the full background: full-color-blue, full-color-azure, full-color-green, full-color-red, full-color-orange
+      Available colors only for the toolbar: toolbar-color-blue, toolbar-color-azure, toolbar-color-green, toolbar-color-red, toolbar-color-orange
+    -->
+  <div class="toolbar">
+    <button id="alertBtn" class="btn btn-default">Submit your Details</button>
+  </div>
+
+  <table id="fresh-table" class="table">
+    <thead>
+      <th data-field="name" data-sortable="true">Name</th>
+      <th data-field="bgroup" data-sortable="true">Blood Group</th>
+      <th data-field="dlocation" data-sortable="true">Donor Location</th>
+      <th data-field="phone">Phone</th>
+    </thead>
+    <tbody>
+      {% if page.group %}
+      {% for donor in site.data.donors %}
+      {% if donor.group == page.group %}
+      <tr>
+        <td>{{donor.name}}</td>
+        <td>{{donor.group}}</td>
+        <td>{{donor.location}}</td>
+        <td>{{donor.number}}</td>
+      </tr>
+      {% endif %}
+      {% endfor %}
+      {% else %}
+      {% for donor in site.data.donors %}
+      <tr>
+        <td>{{donor.name}}</td>
+        <td>{{donor.group}}</td>
+        <td>{{donor.location}}</td>
+        <td>{{donor.number}}</td>
+      </tr>
+      {% endfor %}
+      {% endif %}
+    </tbody>
+  </table>
+</div>

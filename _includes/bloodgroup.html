@@ -1,0 +1,10 @@
+<div class="description">
+    <h2>Select Blood Group</h2>
+    {% for group in site.bloodgroups %}
+    {% if group.group == page.group %}
+    <a href="{{group.url}}"><button class="btn btn-info btn-social btn-facebook btn-round btn-fill btn-wd">{{group.group}}</button></a>
+    {% else %}
+    <a href="{{group.url}}"><button class="btn btn-info btn-social btn-round btn-fill btn-wd">{{group.group}}</button></a>      
+    {% endif %}
+    {% endfor %}
+</div>
