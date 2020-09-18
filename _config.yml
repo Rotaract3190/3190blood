@@ -18,8 +18,7 @@ markdown: kramdown
 # paginate_path: blog/page-:num/
 
 # Google analytics
-ga_tracking_id: ""
-ga_tag_manage_id: ""
+ga_tracking_id: "UA-122171689-7"
 
 plugins:
   - jekyll-sitemap
