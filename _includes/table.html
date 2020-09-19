@@ -9,10 +9,17 @@
 
   <table id="fresh-table" class="table">
     <thead>
+      {% if page.group %}
+      <th data-field="name" data-sortable="true">Name</th>
+      <th data-field="dlocation" data-sortable="true">Donor Location</th>
+      <th data-field="phone">Phone</th>
+      <th data-field="bgroup">Blood Group</th>
+      {% else %}
       <th data-field="name" data-sortable="true">Name</th>
       <th data-field="bgroup" data-sortable="true">Blood Group</th>
       <th data-field="dlocation" data-sortable="true">Donor Location</th>
       <th data-field="phone">Phone</th>
+      {% endif %}
     </thead>
     <tbody>
       {% if page.group %}
@@ -20,9 +27,9 @@
       {% if donor.group == page.group %}
       <tr>
         <td>{{donor.name}}</td>
-        <td>{{donor.group}}</td>
         <td>{{donor.location}}</td>
         <td>{{donor.number}}</td>
+        <td>{{donor.group}}</td>
       </tr>
       {% endif %}
       {% endfor %}
