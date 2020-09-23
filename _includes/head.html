@@ -42,7 +42,8 @@
     <meta property="og:description" content="{% if page.group %}Database of {{page.group}} Blood Donors by Rotaract 3190{% else %}{{site.description}}{% endif %}" />
     <meta property="og:site_name" content="Rotaract 3190" />
   
-  
+    <link rel="canonical" href="{{page.url | absolute_url}}" />
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.4.1/css/bootstrap.min.css">
     <link href="{{ "/assets/css/fresh-bootstrap-table.css" | absolute_url}}" rel="stylesheet" />
     <link href="{{ "/assets/css/demo.css" | absolute_url}}" rel="stylesheet" />
