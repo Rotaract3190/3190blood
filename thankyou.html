@@ -1,0 +1,62 @@
+---
+group: Thank You!!!
+permalink: thankyou
+noindex: true
+redirect_to_home: true
+rtime: 5
+---
+<!doctype html>
+<html lang="en">
+  {% include head.html %}
+<body> 
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MPR37ZQ"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	
+<div class="wrapper">
+
+    {% include branding.html %}
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2">
+
+		<div class="description">
+			<h2>Thank You!!!</h2>
+		</div>
+
+        <div class="fresh-table full-color-blue" style="color: white; margin: 1em; padding: 1em;">
+            <hr style="border-top: 1px dashed white">
+
+            <h5 class="text-center py-4">We have received your Submission!<br>Happy Rotaraction!</h5>
+            <p class="text-center py-4">&#9830;	&#9830;	&#9830;</p>
+            <p class="text-center">Our Team will contact your to verify the information provided 🤝</p>
+            <p class="text-center py-4">&#9830;	&#9830;	&#9830;</p>
+                        
+            <hr style="border-top: 1px dashed white">
+            <div class="col-12">
+                <p class="text-center py-4">Redirecting to home page ... </p>
+                <div class="text-center">
+                    <a href="{{site.baseurl}}/" class="btn mb-50">Go to Home</a>
+                </div>
+            </div>
+        </div>
+
+		{% include bloodgroup.html %}
+		
+        {% include footer.html %}
+
+      </div>
+    </div>
+  </div>
+
+</div>
+
+{% include register_form.html %}
+
+</body>
+
+{% include footer_script.html %}
+
+</html>

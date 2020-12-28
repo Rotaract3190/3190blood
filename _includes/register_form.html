@@ -11,7 +11,7 @@
 	  					var submission = false;
 	  				</script>
 	  				<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;"
-					onload="if(submission)  {window.location='/';}"></iframe>
+					onload="if(submission)  {window.location='/thankyou';}"></iframe>
 
 	  				<hr>
 	  				<form
@@ -27,8 +27,8 @@
 							<input type="tel" class="form-control" pattern="[6-9]{1}[0-9]{9}" name="entry.687649057" id="phone" required>
 						</div>
 						<div class="form-group">
-							<label for="phone" class="col-form-label">Alternate Phone Number (10 digit Mobile No.)</label>
-							<input type="tel" class="form-control" pattern="[6-9]{1}[0-9]{9}" name="entry.1763716831" id="phone" required>
+							<label for="phone2" class="col-form-label">Alternate Phone Number (10 digit Mobile No.)</label>
+							<input type="tel" class="form-control" pattern="[6-9]{1}[0-9]{9}" name="entry.1763716831" id="phone2" required>
 						</div>
 						<div class="form-group">
 							<label for="location" class="col-form-label">Your Location (Ex: HSR Layout, Jayanagar,
@@ -54,20 +54,25 @@
 							<label for="group" class="col-form-label">Willing to donate blood when required?</label>
 							<select name="entry.915730261" class="form-control" id="group" required>
 								<option class="form-control" value="" disabled="" selected="" hidden="">...</option>
-								<option class="form-control" value="O +">Yes</option>
-								<option class="form-control" value="O -">No</option>
+								<option class="form-control" value="Yes">Yes</option>
+								<option class="form-control" value="No">No</option>
 							</select>
 						</div>
 						<div class="form-group">
 							<label for="group" class="col-form-label">Have you ever been diagnosed with COVID-19?</label>
 							<select name="entry.763509401" class="form-control" id="group" required>
 								<option class="form-control" value="" disabled="" selected="" hidden="">...</option>
-								<option class="form-control" value="O +">Yes</option>
-								<option class="form-control" value="O -">No</option>
+								<option class="form-control" value="Yes">Yes</option>
+								<option class="form-control" value="No">No</option>
 							</select>
 						</div>
-						<p class="text-muted">Our team will contact you shortly after registration to verify the information.</p>
-	  					<div class="row">
+						<hr style="border-top: 1px dashed grey">
+						<div class="form-group">
+							<p>I hereby confirm that, by sumitting this information I am willing to list my information on "blood.rotaract3190.org".</p>
+							<input type="checkbox" oninvalid="setCustomValidity('Confirm your Consent')" oninput="setCustomValidity('')" id="concent" value="Yes" required>
+							<label for="concent"> Yes</label>
+						</div>
+						<hr style="border-top: 1px dashed grey">	  					<div class="row">
 	  						<div class="col-sm-12">
 	  							<input type="submit" class="btn btn-primary" value="Register">
 	  						</div>
