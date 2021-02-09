@@ -1,35 +1,132 @@
-﻿sl.no,name,group,location,number
-1,Arun Teja Godavarthi,O +,"Ramamurthy Nagar, KR Puram",8553788515
-2,Rtr.Tarun U,B +,Vidyaranyapura,9036403018
-3,Akshay Kumar Kanive M,A +,Banashankari 3rd Stage,9611261259
-4,Manoj M,A +,Brigade Road,9916969029
-5,Mrudul Amritphale,O +,"Uniworld Appartnnets , Niladri nagar",8109947798
-6,Shivendu Sinha,A +,Electronic City 1/Marathalli,7004636177
-7,Vijay Mohan,A +,Electronic city,8489681363
-8,ESWAR SAI,A +,N R COLONY,8310981620
-9,Varsha N,A +,"Bel layout, Vidyaranyapura",8277075465
-10,Vidya Sagar,A +,KGF,6361855635
-11,Chetan U,B +,Vidyaranyapura,8722237999
-12,Sathya R,O +,8th mile Tumkur Road,9980846728
-13,Aishwarya A S,B +,Shivajinagar,6363898864
-14,Umang Kumar Agarwal,O +,"Aecs Layout, Kundalahalli",9955966197
-15,Achyuta Bharadwaj,O +,jp nagar 1st phase,8861895025
-16,Akshay Kumar M,O +,Nagarbhavi,8296471492
-17,M Sathya Priyan,O +,Bangarpet kolar,9538075397
-18,Diya S Bangera,B +,Sahakarnagar,9591500228
-19,Roshan kumar s,O +,Basaveshwarnagar,9663572762
-20,Shreya Hadimani,A +,Yelahanka,9686736965
-21,Priyanka J,B +,Rajajinagar,6364000936
-22,Chandramuthu V,O +,Goripalya,9844512477
-23,Arun N,A +,Jayanagar 1st block,9880480630
-24,Diya S Bangera,B +,Sahakarnagar,9591500228
-25,Hemanth Kumar B,O +,8th Mile,9611118059
-26,PUNITH T P,B +,Sapthagiri college of engineering,9900864002
-27,HARIVIGNESH,O +,"4th phase, Yelahanka New Town, Bangalore",7411316189
-28,Abdul Asif R,B +,Bellandur home/Banshankari office,8553830858
-29,Chethan Krishna G R,AB +,Mathikere,9483517070
-30,Manasa Gowda,A +,"Vidyanagar , Ramanagr",8196173805
-31,Kiran SHS,O +,Hoskote,7353505824
-32,Ravish s,O +,"Madanayakanahalli, Nelamangala",9620820685
-33,Tanya Jessica,AB +,Richards Park,9945539849
-34,Dhanyajeeth Kanhangad,A -,Nagarbhavi,8884802004
+sl.no,name,group,location,number
+1,Abdul Nadiya Rauf,B +,Tamilnadu,8778708854
+2,Abhishek R,B +,Vidyaranyapura,9980638616
+3,Adhesh vishak,O +,Jp Nagar,9513808471
+4,Aditi Patel,O +,Vidyaranyapura,9131730308
+5,Aishwarya A S,B +,Shivajinagar,6363898864
+6,Aliza gogi,A +,Pune,9422537218
+7,Ananth Prabhu,AB -,Magadi road,8105157167
+8,Anjali Prasad,B +,Devanahalli,6371219036
+9,Anoop,O +,Sapthagiri medical. College,6361734601
+10,Anoop Jartarghar,B +,BTM 2nd stage,7019337162
+11,Anuja Torvi,O +,Marathahalli,7795726926
+12,Anusha s bhat,O +,Nagarbhavi Banglore,9606773127
+13,Aparna Raj,A +,Thaverekere Laksmi theatre,9739995923
+14,Arima tiwari,O +,Vidyaranyapura,8073881743
+15,Arun Teja Godavarthi,O +,KR Puram,8553788515
+16,Ashish Bahuguna,A +,V V Puram,8130484383
+17,Ashish Verma,A +,Nagasandra,9731592051
+18,Ashritha Sri R,O +,Malleshwaram,8884702199
+19,Augustine Inba Rajan V,O +,Cantonment,8762505670
+20,Bala Babu Bhargav,O +,Padmanabhanagar,9900425589
+21,Bareddy Uma Maheshwara Reddy,B +,Yelahanka old town,6361163390
+22,Benita Biju,A -,Hebbal,7760378554
+23,BHARGAV S,O +,Srinagar,9611530308
+24,Bhargava D V,O +,Doddaballapur,9986600995
+25,Bhargava V Desai,A +,Nagarbhavi,7411603095
+26,Buraida hasan siddiqui,O +,2nd main kausar nagar RT nagar banglore-32,9742561110
+27,Chaitanya m,A +,Kolar,9380658887
+28,Chandramuthu v,O +,Vijaynagar,9844512477
+29,Chethan M,B +,Nagarbhavi,9611818785
+30,Chinmayee Prasad,A +,Ganganagar,9620010827
+31,Chirag Reddy,B +,Vidyaranyapura,9482091807
+32,Chirayush vyas,O +,"Rajankunte,yelhanka",8660169550
+33,Deekshith P,B +,Yelahanka bangalore,8073945994
+34,Deepak kanth,O +,Jalahalli cross,8618267226
+35,Dhanush .S,O +,Rajajinagar Bangalore,9945354415
+36,Dhanyajeeth Kanhangad,A -,Nagarbhavi,8884802004
+37,Disha,O -,Jp nagar,9108464300
+38,Divya. M,A +,Mahalakshmi layout,9108182583
+39,Gajula Pankaj,AB +,Mathikere,8106048318
+40,Gayathri N,AB +,Yelahanka Newtown,8951218584
+41,Giselle Gemma Fernandez,O +,Koramangala,9731923293
+42,Hariprasad  Renjala,B +,Hesarughatta Road,7892026659
+43,Husna khanum,B +,Btm layout,9071010290
+44,Impana.R,O +,Basaveshwaranagar,9353354945
+45,Jagadish chinda,O +,Bharat Nagar,9902975485
+46,Kartik,B +,Dharamshala,8894936196
+47,Kavyashree SB,O +,Srinagar,9113632284
+48,Kiran Kuwar,O +,Yeswanthpur,8095909337
+49,Kuruva Sudhakar,AB +,Kurnool,9133741302
+50,Kushal,O +,Devanahalli,9513130125
+51,Laishram Jagadish Meitei,A +,KR PURAM,7005002542
+52,Lakshmikantha T,A +,Doddaballapura,8296864998
+53,Latha Deepak,AB +,Vidyaranyapura,7411681308
+54,M NITHYA you,B -,"Suchitra, Hyderabad",9393796424
+55,M. Datta Prasad,O -,Hyderabad,7993780501
+56,Madhan kumar M,B +,Devanahalli,9972751690
+57,Madhu M,O +,Doddaballpur,7406501708
+58,Madhusudhan,O +,Vasanthapura,9620042670
+59,Manjunath nag,O +,Home | Doddaballapur | Work place | Cunningham road Bangalore,9060759008
+60,Md Maaz,A +,Yeshwanthpur,9738173367
+61,Md.Mushabber Hussain k,B +,Yelahanka,8197850725
+62,MOHAMMED SALIM RAYYAN QADRI,A +,Jagjeevanram nagar,8951118598
+63,Mohammed Saqib,O +,Chamarajpet,9535540866
+64,Mohammed Siddique Shah,O +,Neelasandra,9743565461
+65,Monisha K,O +,"Mugalivakkam, Chennai",9632165300
+66,Nagendra Babu K,B +,Jayanagar,9071011970
+67,Narendren S,O +,"D group Layout, Nagarbhavi 2nd Stage",9686649231
+68,Naveen kumar N,AB +,Dodballapura,7411001771
+69,Naveen Kumar Reddy,B +,"Malleswaram, Mathikere",9380260897
+70,Nitya C Hanchate,B +,"MEI Layout, Bagalagunte, Hessaraghatta main road",9148868708
+71,Pavan kumar gv,O +,"Ks boys hostel,mallasandra",7975524500
+72,Priksha kumari,O +,Lakkasandra extension,7760052500
+73,Priya Sanjana,B +,C. V. Raman Nagar,9741636639
+74,Priyanka V,B +,KGF,9035226729
+75,Proshanto Kumar Saha,B +,Ozone Urbana,8962785870
+76,Pushpita Roy,A +,RMV Clusters,8123580919
+77,R P PRANAV,O +,Nagarbhavi,7411929967
+78,Raghavendra sharma,B +,Yelahanka new town,8217650417
+79,Rajath bhargav. S,A +,Krpuram,8971911748
+80,RAMA RAO,A +,SRI RAJARAJESHWARI NAGAR,9379457929
+81,RANJITH KUMAR J,B +,BASAVANAGUDI,8884601647
+82,Roopa c,O +,Nagarbhavi,8861467004
+83,Roshan kumar S,O +,Basaveshwarnagar,9663572762
+84,Rtr. Prasanna Bhagat,O +,Kumarswami Layout,8583829874
+85,Ruchi M Jain,O -,Magadi Road,9008754321
+86,RUSHIL RAM.G.A,B +,Dollar's Colonu,9148753012
+87,S.Andrew Simom,O +,Chamrajpet. Vittal Nagar,7026622106
+88,Sadguru,A +,Hubli,8883300046
+89,Sagar H Shah,B +,Rajajinagar,6361417714
+90,Sahana m,B -,yelahanka,8971813108
+91,Sai Tharun J,A +,Alwal,8019457969
+92,Satyajeet Malla,O +,Chamrajpet,7892725478
+93,Saurav PN,B +,Basavangudi,9035287350
+94,Shamantha,AB +,Kr puram,9632633694
+95,Sharvani kv,O -,Devanahalli,9663860002
+96,Shashi Kumar M,B +,Hennur,9972808883
+97,Shivakumar B,B +,Yelahanka,9449929238
+98,Shobha M,O +,Devanahalli town Bangalore rural,9632765433
+99,Shreya s,O +,Ramurthynagar,6360480060
+100,Sidharth Chittur,O +,"RT Nagar, North Bengaluru",9964091407
+101,Sneha Renu,B +,Rt nagar,7760367450
+102,Soujanya Hediyal,O +,R. T. Nagar,8884950565
+103,Srishti Bhayana,O +,Chandigarh,8708614819
+104,Suhas Naidu,A +,Rajajingar,8892343926
+105,Suhas S,A +,Varthur,9880737227
+106,Suhasb,O +,Hsr,9999998888
+107,Sujoy Dhar,O +,Seetha sircle,8399985740
+108,Suman V,O +,Sidlghatta.,9036976223
+109,Suraj,B +,Kalkere,9886800845
+110,Suraj Mohan,A +,Nagarbhavi,9738120360
+111,Surakshith S,B +,Nagarbhavi,9738322420
+112,Sushant  Vasupal.S,O +,"Vykuntam,behind government hospital,koratagere",9535025001
+113,Tanvi Goel,O +,Hospet,8095159844
+114,Taskeen Shariff,O +,"Govindpur, Rashad Nagar",7019734729
+115,Thulasi Jagadish,O +,T Dasarahalli,9535211137
+116,Vidya . N,B +,Hoskote,8496080295
+117,Vijay BM,O +,Gayatrinagar Rajajinagar,9535583572
+118,Vinay,O +,Cbpur,9449987696
+119,Vinod,B +,Reva university,6361467702
+120,Vinod kumar P,O +,Budigere,9845084820
+121,Vipin Divakar,B +,Presidency College,8792077010
+122,Vishwas M Hegde,B +,JP Nagar 7th phase,7022378853
+123,Vivek m,A +,Sanjaynagar,7411338005
+124,VIVEK VITEKAR,B +,REVA UNIVERSITY,9380341662
+125,Yashas Manjunath,O +,Bhoopasandra,7338198991
+126,Yeshwanth Gowda,A +,Yelahanka,9164382275
+127,Ponkeerthana,A +,Laggere,8892288699
+128,LIKITH KUMAR R,O +,Yeswanthpura,9019946438
+129,Meghana s,O +,Summanahalli bangalore,9353995515
+130,Subrahmanya V Hegde,B +,Mattikere,9663469160
+131,Chetan U,B +,Vidyaranyapura,8722237999
