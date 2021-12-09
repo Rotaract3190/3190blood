@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-https://3190blood.netlify.app/* https://blood.rotaract3190.org/:splat 301!
